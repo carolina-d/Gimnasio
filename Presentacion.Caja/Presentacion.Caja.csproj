@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7AF754DC-1E71-45D7-9CA7-58E1844A5576}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion.Caja</RootNamespace>
+    <AssemblyName>Presentacion.Caja</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap, Version=2.6.3.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\caro\Desktop\Parciales de Laboratorio\Gimnasio_Colosseo\Aplicacion.IoC.StructureMap\Libreria\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CajaAssembly.cs" />
+    <Compile Include="Controles\ctrolBuscarSocio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\ctrolBuscarSocio.Designer.cs">
+      <DependentUpon>ctrolBuscarSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\DTOpago.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_00600_ABM_Pago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00600_ABM_Pago.Designer.cs">
+      <DependentUpon>_00600_ABM_Pago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00601_ConsultaPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00601_ConsultaPagos.Designer.cs">
+      <DependentUpon>_00601_ConsultaPagos.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Comun\Aplicacion.Comun.csproj">
+      <Project>{deb49012-ad04-4823-8afb-54ce7922e1fd}</Project>
+      <Name>Aplicacion.Comun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio.Caja\Dominio.Caja.csproj">
+      <Project>{5ce31847-843b-4c3f-a581-cb48af074933}</Project>
+      <Name>Dominio.Caja</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioBase\DominioBase.csproj">
+      <Project>{80fbf05d-04c0-416e-8436-d3bc294d5293}</Project>
+      <Name>DominioBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioComun\DominioComun.csproj">
+      <Project>{45179756-11b4-496b-b92e-7485071789d6}</Project>
+      <Name>DominioComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infraestructura.Caja\Infraestructura.Caja.csproj">
+      <Project>{9f17ad5c-cc0e-4567-826a-7a6cc5cec1c2}</Project>
+      <Name>Infraestructura.Caja</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraBase\InfraestructuraBase.csproj">
+      <Project>{cbb9d15e-455e-459a-9c42-3d7fb27f808f}</Project>
+      <Name>InfraestructuraBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraComun\InfraestructuraComun.csproj">
+      <Project>{6a2b3331-4108-42b7-b658-0d36aedd9ed8}</Project>
+      <Name>InfraestructuraComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PresentacionComun\PresentacionComun.csproj">
+      <Project>{50e5a844-7c4a-4d93-89ee-c42d382c7ac1}</Project>
+      <Name>PresentacionComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PresentacionPlantilla\PresentacionPlantilla.csproj">
+      <Project>{01eb3ec4-a891-40ce-9d62-9359428c3869}</Project>
+      <Name>PresentacionPlantilla</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controles\ctrolBuscarSocio.resx">
+      <DependentUpon>ctrolBuscarSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00600_ABM_Pago.resx">
+      <DependentUpon>_00600_ABM_Pago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00601_ConsultaPagos.resx">
+      <DependentUpon>_00601_ConsultaPagos.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Librerias\StructureMap.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

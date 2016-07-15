@@ -1,0 +1,4 @@
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionBase\obj\Debug\PresentacionBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionBase\obj\Debug\PresentacionBase.FormularioBase.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionBase\obj\Debug\PresentacionBase.Recursos.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.Cache

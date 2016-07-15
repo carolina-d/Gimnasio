@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE532956-E7D9-4C52-8FC6-24ABF1352265}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PresentacionSeguridad</RootNamespace>
+    <AssemblyName>PresentacionSeguridad</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap, Version=2.6.3.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\SistemaCAD\Presentacion.Seguridad\Librerias\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formularios\ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ABM.Designer.cs">
+      <DependentUpon>ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Constante.cs" />
+    <Compile Include="ConfiguracionBaseDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfiguracionBaseDatos.Designer.cs">
+      <DependentUpon>ConfiguracionBaseDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigurarParametrosSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigurarParametrosSeguridad.Designer.cs">
+      <DependentUpon>ConfigurarParametrosSeguridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consulta.Designer.cs">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormBase.Designer.cs">
+      <DependentUpon>FormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SeguridadAssembly.cs" />
+    <Compile Include="_00003_Empleado_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00003_Empleado_ABM.Designer.cs">
+      <DependentUpon>_00003_Empleado_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00004_Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00004_Empleado.Designer.cs">
+      <DependentUpon>_00004_Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00005_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00005_Usuario.Designer.cs">
+      <DependentUpon>_00005_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00006_CambiarPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00006_CambiarPassword.Designer.cs">
+      <DependentUpon>_00006_CambiarPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00007_Perfil_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00007_Perfil_ABM.Designer.cs">
+      <DependentUpon>_00007_Perfil_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00008_Perfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00008_Perfil.Designer.cs">
+      <DependentUpon>_00008_Perfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00009_Formulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00009_Formulario.Designer.cs">
+      <DependentUpon>_00009_Formulario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00010_AsignarUsuarioPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00010_AsignarUsuarioPerfil.Designer.cs">
+      <DependentUpon>_00010_AsignarUsuarioPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00011_AsignarFormularioPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00011_AsignarFormularioPerfil.Designer.cs">
+      <DependentUpon>_00011_AsignarFormularioPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00012_TipoEmpleado_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00012_TipoEmpleado_ABM.Designer.cs">
+      <DependentUpon>_00012_TipoEmpleado_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00013_TipoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00013_TipoEmpleado.Designer.cs">
+      <DependentUpon>_00013_TipoEmpleado.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Librerias\StructureMap.dll" />
+    <None Include="packages.config" />
+    <None Include="Resources\Buscar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formularios\ABM.resx">
+      <DependentUpon>ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfiguracionBaseDatos.resx">
+      <DependentUpon>ConfiguracionBaseDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigurarParametrosSeguridad.resx">
+      <DependentUpon>ConfigurarParametrosSeguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consulta.resx">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormBase.resx">
+      <DependentUpon>FormBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00003_Empleado_ABM.resx">
+      <DependentUpon>_00003_Empleado_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00004_Empleado.resx">
+      <DependentUpon>_00004_Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00005_Usuario.resx">
+      <DependentUpon>_00005_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00006_CambiarPassword.resx">
+      <DependentUpon>_00006_CambiarPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00007_Perfil_ABM.resx">
+      <DependentUpon>_00007_Perfil_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00008_Perfil.resx">
+      <DependentUpon>_00008_Perfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00009_Formulario.resx">
+      <DependentUpon>_00009_Formulario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00010_AsignarUsuarioPerfil.resx">
+      <DependentUpon>_00010_AsignarUsuarioPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00011_AsignarFormularioPerfil.resx">
+      <DependentUpon>_00011_AsignarFormularioPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00012_TipoEmpleado_ABM.resx">
+      <DependentUpon>_00012_TipoEmpleado_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00013_TipoEmpleado.resx">
+      <DependentUpon>_00013_TipoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AplicacionConexion\AplicacionConexion.csproj">
+      <Project>{08eda448-f5e3-4e8a-b3ac-3271a549ff95}</Project>
+      <Name>AplicacionConexion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AplicacionEmpleado\AplicacionEmpleado.csproj">
+      <Project>{219887b5-1131-4951-8f31-09c668a9cbb3}</Project>
+      <Name>AplicacionEmpleado</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioBase\DominioBase.csproj">
+      <Project>{80fbf05d-04c0-416e-8436-d3bc294d5293}</Project>
+      <Name>DominioBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioSeguridad\DominioSeguridad.csproj">
+      <Project>{a67fd77d-8aa4-401a-a73e-3d58830cabcc}</Project>
+      <Name>DominioSeguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraBase\InfraestructuraBase.csproj">
+      <Project>{cbb9d15e-455e-459a-9c42-3d7fb27f808f}</Project>
+      <Name>InfraestructuraBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraSeguridad\InfraestructuraSeguridad.csproj">
+      <Project>{193f6e8e-cc38-4976-b495-ec257da6e5a2}</Project>
+      <Name>InfraestructuraSeguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PresentacionPlantilla\PresentacionPlantilla.csproj">
+      <Project>{01eb3ec4-a891-40ce-9d62-9359428c3869}</Project>
+      <Name>PresentacionPlantilla</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServicioSeguridad\ServicioSeguridad.csproj">
+      <Project>{f3c40b71-a0ef-4c95-a074-2cd5d557e1db}</Project>
+      <Name>ServicioSeguridad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

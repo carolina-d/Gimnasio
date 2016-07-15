@@ -1,0 +1,115 @@
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe.config
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.exe
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\bin\Debug\PresentacionPlantilla.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioABM.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBase.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioBusqueda.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.FormularioConsulta.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Properties.Resources.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.Recursos.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.csproj.GenerateResource.Cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.exe
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionPlantilla\obj\Debug\PresentacionPlantilla.pdb

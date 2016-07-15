@@ -1,0 +1,13 @@
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\ServicioComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\ServicioComun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\obj\x86\Debug\ServicioComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\obj\x86\Debug\ServicioComun.pdb
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\ServicioComun.dll.config
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\ServicioComun.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\ServicioComun.pdb
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\EntityFramework.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\EntityFramework.xml
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\x86\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\obj\x86\Debug\ServicioComun.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\obj\x86\Debug\ServicioComun.pdb

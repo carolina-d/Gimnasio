@@ -1,0 +1,108 @@
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\Presentacion.Caja.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\Presentacion.Caja.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\Dominio.Caja.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\DominioComun.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\Infraestructura.Caja.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\InfraestructuraComun.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\PresentacionPlantilla.exe
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\Dominio.Caja.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\DominioComun.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\Infraestructura.Caja.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\InfraestructuraComun.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\obj\Debug\Presentacion.Caja._00600_ABM_Pago.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\obj\Debug\Presentacion.Caja.csproj.GenerateResource.Cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\obj\Debug\Presentacion.Caja.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Presentacion.Caja\obj\Debug\Presentacion.Caja.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Presentacion.Caja\obj\Debug\Presentacion.Caja.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Presentacion.Caja\obj\Debug\Presentacion.Caja._00600_ABM_Pago.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Presentacion.Caja\obj\Debug\Presentacion.Caja.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\Presentacion.Caja\obj\Debug\Presentacion.Caja.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\Presentacion.Caja\obj\Debug\Presentacion.Caja._00600_ABM_Pago.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\Presentacion.Caja\obj\Debug\Presentacion.Caja.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\GimnasioUnido\Presentacion.Caja\obj\Debug\Presentacion.Caja.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\GimnasioUnido\Presentacion.Caja\obj\Debug\Presentacion.Caja._00600_ABM_Pago.resources
+C:\Users\caro\Desktop\GimnasioUnido\Presentacion.Caja\obj\Debug\Presentacion.Caja.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja._00600_ABM_Pago.resources
+C:\Users\caro\Desktop\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.csproj.GenerateResource.Cache
+C:\Users\caro\Source\Repos\ColosseoGym-Git\Presentacion.Caja\obj\Debug\Presentacion.Caja.csprojResolveAssemblyReference.cache
+C:\Users\caro\Source\Repos\ColosseoGym-Git\Presentacion.Caja\obj\Debug\Presentacion.Caja._00600_ABM_Pago.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\Presentacion.Caja\obj\Debug\Presentacion.Caja.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\Presentacion.Caja.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\Presentacion.Caja.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\Presentacion.Caja.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\Dominio.Caja.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\Infraestructura.Caja.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\Dominio.Caja.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\Infraestructura.Caja.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja._00600_ABM_Pago.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.csprojResolveAssemblyReference.cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja._00600_ABM_Pago.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.csproj.GenerateResource.Cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Presentacion.Caja.dll.config
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Presentacion.Caja.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Presentacion.Caja.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Dominio.Caja.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\DominioBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\EntityFramework.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\EntityFramework.SqlServer.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Infraestructura.Caja.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\InfraestructuraBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\InfraestructuraComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\PresentacionPlantilla.exe
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\DominioComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\AplicacionConexion.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\DominioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Dominio.Caja.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\DominioBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Infraestructura.Caja.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\InfraestructuraBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\InfraestructuraComun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\PresentacionPlantilla.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\EntityFramework.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\EntityFramework.SqlServer.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\DominioComun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\AplicacionConexion.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\DominioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Aplicacion.Comun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\PresentacionComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\StructureMap.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\Aplicacion.Comun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\bin\Debug\PresentacionComun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja.Controles.ctrolBuscarSocio.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Presentacion.Caja\obj\Debug\Presentacion.Caja._00601_ConsultaPagos.resources

@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01EB3EC4-A891-40CE-9D62-9359428C3869}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PresentacionPlantilla</RootNamespace>
+    <AssemblyName>PresentacionPlantilla</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormularioBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioBusqueda.Designer.cs">
+      <DependentUpon>FormularioBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Constante.cs" />
+    <Compile Include="Clases\TipoOperacion.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioABM.Designer.cs">
+      <DependentUpon>FormularioABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioBase.Designer.cs">
+      <DependentUpon>FormularioBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioConsulta.Designer.cs">
+      <DependentUpon>FormularioConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Imagen.cs" />
+    <Compile Include="Clases\ImagenFormulario.cs" />
+    <Compile Include="Clases\Mensaje.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Clases\ValidacionDatos.cs" />
+    <Compile Include="Recursos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Recursos.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormularioABM.resx">
+      <DependentUpon>FormularioABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioBase.resx">
+      <DependentUpon>FormularioBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioBusqueda.resx">
+      <DependentUpon>FormularioBusqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioConsulta.resx">
+      <DependentUpon>FormularioConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Recursos.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Recursos.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aceptar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bloquear.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borrer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendario.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalendarioAgregar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalendarioEliminar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carnet .ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desbloquear.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empleado.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EmpleadoEliminar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EmpleadoModificar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grabar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imprimir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modificar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nuevo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Socio.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SocioEliminar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SocioModificar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tarjeta.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turno.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Informacion1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Informacion3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Informacion2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\socio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept_business_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_business_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\block.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_user_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_user_warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CalendarioModificar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change_password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_male_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpiar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male_user_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove_business_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarioAgregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarioBloqueado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarioModificar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1416180280_office-addressbook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1416179174_people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1416179191_printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1416180295_preferences-system-time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1416180420_05_phonebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1416180531_Security_Reader1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clases.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\membresia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_promociones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pesas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Address Book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asignarRutina.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

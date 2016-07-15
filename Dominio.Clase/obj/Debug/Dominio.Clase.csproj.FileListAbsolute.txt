@@ -1,0 +1,22 @@
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\Dominio.Clase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\Dominio.Clase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\obj\Debug\Dominio.Clase.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\obj\Debug\Dominio.Clase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Dominio.Clase\obj\Debug\Dominio.Clase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\obj\Debug\Dominio.Clase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\obj\Debug\Dominio.Clase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\obj\Debug\Dominio.Clase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\Dominio.Clase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\Dominio.Clase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Dominio.Clase\bin\Debug\DominioSeguridad.pdb

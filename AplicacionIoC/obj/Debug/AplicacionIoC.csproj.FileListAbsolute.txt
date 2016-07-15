@@ -1,0 +1,340 @@
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.csprojResolveAssemblyReference.cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll.config
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\AplicacionIoC.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Caja.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Producto.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\DominioSpinning.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Caja.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Producto.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSpnning.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\StructureMap.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Caja.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\Dominio.Producto.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\DominioBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\DominioComun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\DominioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\DominioSpinning.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Caja.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\Infraestructura.Producto.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraComun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\InfraestructuraSpnning.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\ServicioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\EntityFramework.SqlServer.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\bin\Debug\AplicacionConexion.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionIoC\obj\Debug\AplicacionIoC.pdb

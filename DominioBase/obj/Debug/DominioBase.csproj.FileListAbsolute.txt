@@ -1,0 +1,63 @@
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\obj\Debug\DominioBase.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\DominioBase\obj\Debug\DominioBase.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\DominioBase\obj\Debug\DominioBase.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\GimnasioUnido\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\GimnasioUnido\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gimnasio\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gimnasio\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gimnasio\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gimnasio\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\bin\Debug\DominioBase.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\obj\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\obj\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\DominioBase\obj\Debug\DominioBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\bin\Debug\DominioBase.dll.config
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Gym\Gimnasio\DominioBase\bin\Debug\EntityFramework.SqlServer.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\bin\Debug\DominioBase.dll.config
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\bin\Debug\DominioBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\bin\Debug\DominioBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\bin\Debug\EntityFramework.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\bin\Debug\EntityFramework.SqlServer.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\bin\Debug\EntityFramework.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\bin\Debug\EntityFramework.SqlServer.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\obj\Debug\DominioBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\DominioBase\obj\Debug\DominioBase.pdb

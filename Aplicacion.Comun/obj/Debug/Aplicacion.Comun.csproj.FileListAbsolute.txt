@@ -1,0 +1,15 @@
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Aplicacion.Comun\bin\Debug\Aplicacion.Comun.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Aplicacion.Comun\bin\Debug\Aplicacion.Comun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Aplicacion.Comun\obj\Debug\Aplicacion.Comun.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\Aplicacion.Comun\obj\Debug\Aplicacion.Comun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\bin\Debug\Aplicacion.Comun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\bin\Debug\Aplicacion.Comun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\bin\Debug\DominioComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\bin\Debug\DominioBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\bin\Debug\DominioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\bin\Debug\DominioComun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\bin\Debug\DominioBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\bin\Debug\DominioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\obj\Debug\Aplicacion.Comun.csprojResolveAssemblyReference.cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\obj\Debug\Aplicacion.Comun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\Aplicacion.Comun\obj\Debug\Aplicacion.Comun.pdb

@@ -1,0 +1,4 @@
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\Debug\ServicioComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\bin\Debug\ServicioComun.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\obj\Debug\ServicioComun.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioComun\obj\Debug\ServicioComun.pdb

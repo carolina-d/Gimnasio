@@ -1,0 +1,154 @@
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll.config
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\InfraestructuraBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\AplicacionConexion.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\DominioBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\bin\Debug\EntityFramework.SqlServer.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.csprojResolveAssemblyReference.cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\InfraestructuraBase\obj\Debug\InfraestructuraBase.pdb

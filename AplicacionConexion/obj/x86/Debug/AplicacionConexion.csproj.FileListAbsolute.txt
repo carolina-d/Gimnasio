@@ -1,0 +1,16 @@
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\AplicacionConexion.dll.config
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\AplicacionConexion.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\AplicacionConexion.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\obj\x86\Debug\AplicacionConexion.csprojResolveAssemblyReference.cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\obj\x86\Debug\AplicacionConexion.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\obj\x86\Debug\AplicacionConexion.pdb
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\AplicacionConexion.dll.config
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\AplicacionConexion.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\AplicacionConexion.pdb
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\obj\x86\Debug\AplicacionConexion.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\obj\x86\Debug\AplicacionConexion.pdb
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\EntityFramework.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\EntityFramework.xml
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\x86\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\obj\x86\Debug\AplicacionConexion.csprojResolveAssemblyReference.cache

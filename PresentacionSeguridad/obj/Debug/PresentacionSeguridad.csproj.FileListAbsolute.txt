@@ -1,0 +1,424 @@
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\StructureMap.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00001_Empresa.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00002_Empresa_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csprojResolveAssemblyReference.cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.ConfiguracionBaseDatos.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.ConfigurarParametrosSeguridad.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Login.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Properties.Resources.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00003_Empleado_ABM.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00004_Empleado.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00005_Usuario.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00006_CambiarPassword.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00007_Perfil_ABM.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00008_Perfil.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00009_Formulario.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00010_AsignarUsuarioPerfil.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00011_AsignarFormularioPerfil.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00012_TipoEmpleado_ABM.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad._00013_TipoEmpleado.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.csproj.GenerateResource.Cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Formularios.ABM.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Formularios.Consulta.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.Formularios.FormBase.resources
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll.config
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionEmpleado.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.exe
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\StructureMap.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionConexion.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\AplicacionEmpleado.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\DominioBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\DominioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\InfraestructuraSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\PresentacionPlantilla.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\ServicioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\bin\Debug\EntityFramework.SqlServer.xml
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\PresentacionSeguridad\obj\Debug\PresentacionSeguridad.pdb

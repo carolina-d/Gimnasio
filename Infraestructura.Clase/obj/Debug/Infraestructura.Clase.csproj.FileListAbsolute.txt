@@ -1,0 +1,47 @@
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Clase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Clase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Dominio.Clase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\EntityFramework.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Caja.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\InfraestructuraBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Dominio.Caja.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Dominio.Clase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Caja.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\InfraestructuraBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\EntityFramework.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Dominio.Caja.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\obj\Debug\Infraestructura.Clase.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\obj\Debug\Infraestructura.Clase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\Infraestructura.Clase\obj\Debug\Infraestructura.Clase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Clase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Clase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Dominio.Clase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Caja.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\InfraestructuraBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Dominio.Caja.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Dominio.Clase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Caja.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Dominio.Caja.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\obj\Debug\Infraestructura.Clase.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\obj\Debug\Infraestructura.Clase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\obj\Debug\Infraestructura.Clase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\Infraestructura.Clase.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\DominioComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\EntityFramework.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\InfraestructuraComun.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\DominioComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\InfraestructuraComun.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\EntityFramework.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\Infraestructura.Clase\bin\Debug\InfraestructuraBase.pdb

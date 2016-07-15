@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{50E5A844-7C4A-4D93-89EE-C42D382C7AC1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PresentacionComun</RootNamespace>
+    <AssemblyName>PresentacionComun</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap, Version=2.6.3.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\SistemaCAD\Presentacion.Seguridad\Librerias\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuscarSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarSocio.Designer.cs">
+      <DependentUpon>BuscarSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00215_AgregarRutina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00215_AgregarRutina.Designer.cs">
+      <DependentUpon>_00215_AgregarRutina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComunAssembly.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="_00200_Socio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00200_Socio.Designer.cs">
+      <DependentUpon>_00200_Socio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00201_Socio_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00201_Socio_ABM.Designer.cs">
+      <DependentUpon>_00201_Socio_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00202_Clase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00202_Clase.Designer.cs">
+      <DependentUpon>_00202_Clase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00203_Clase_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00203_Clase_ABM.Designer.cs">
+      <DependentUpon>_00203_Clase_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00204_HorarioClase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00204_HorarioClase.Designer.cs">
+      <DependentUpon>_00204_HorarioClase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00205_HorarioClase_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00205_HorarioClase_ABM.Designer.cs">
+      <DependentUpon>_00205_HorarioClase_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00206_Membresia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00206_Membresia.Designer.cs">
+      <DependentUpon>_00206_Membresia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00207_Membresia_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00207_Membresia_ABM.Designer.cs">
+      <DependentUpon>_00207_Membresia_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00208_Promocion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00208_Promocion.Designer.cs">
+      <DependentUpon>_00208_Promocion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00209_Promocion_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00209_Promocion_ABM.Designer.cs">
+      <DependentUpon>_00209_Promocion_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00210_TipoRutina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00210_TipoRutina.Designer.cs">
+      <DependentUpon>_00210_TipoRutina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00211_TipoRutina_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00211_TipoRutina_ABM.Designer.cs">
+      <DependentUpon>_00211_TipoRutina_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00212_Rutina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00212_Rutina.Designer.cs">
+      <DependentUpon>_00212_Rutina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00213_Rutina_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00213_Rutina_ABM.Designer.cs">
+      <DependentUpon>_00213_Rutina_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00214_AsignarRutina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00214_AsignarRutina.Designer.cs">
+      <DependentUpon>_00214_AsignarRutina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00216_AsignarClase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00216_AsignarClase.Designer.cs">
+      <DependentUpon>_00216_AsignarClase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00217_AgregarClase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00217_AgregarClase.Designer.cs">
+      <DependentUpon>_00217_AgregarClase.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Comun\Aplicacion.Comun.csproj">
+      <Project>{deb49012-ad04-4823-8afb-54ce7922e1fd}</Project>
+      <Name>Aplicacion.Comun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioBase\DominioBase.csproj">
+      <Project>{80fbf05d-04c0-416e-8436-d3bc294d5293}</Project>
+      <Name>DominioBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioComun\DominioComun.csproj">
+      <Project>{45179756-11b4-496b-b92e-7485071789d6}</Project>
+      <Name>DominioComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraBase\InfraestructuraBase.csproj">
+      <Project>{cbb9d15e-455e-459a-9c42-3d7fb27f808f}</Project>
+      <Name>InfraestructuraBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraComun\InfraestructuraComun.csproj">
+      <Project>{6a2b3331-4108-42b7-b658-0d36aedd9ed8}</Project>
+      <Name>InfraestructuraComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PresentacionPlantilla\PresentacionPlantilla.csproj">
+      <Project>{01eb3ec4-a891-40ce-9d62-9359428c3869}</Project>
+      <Name>PresentacionPlantilla</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Scripts\jquery-2.1.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\themes\base\accordion.css" />
+    <Content Include="Content\themes\base\all.css" />
+    <Content Include="Content\themes\base\autocomplete.css" />
+    <Content Include="Content\themes\base\base.css" />
+    <Content Include="Content\themes\base\button.css" />
+    <Content Include="Content\themes\base\core.css" />
+    <Content Include="Content\themes\base\datepicker.css" />
+    <Content Include="Content\themes\base\dialog.css" />
+    <Content Include="Content\themes\base\draggable.css" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\menu.css" />
+    <Content Include="Content\themes\base\progressbar.css" />
+    <Content Include="Content\themes\base\resizable.css" />
+    <Content Include="Content\themes\base\selectable.css" />
+    <Content Include="Content\themes\base\selectmenu.css" />
+    <Content Include="Content\themes\base\slider.css" />
+    <Content Include="Content\themes\base\sortable.css" />
+    <Content Include="Content\themes\base\spinner.css" />
+    <Content Include="Content\themes\base\tabs.css" />
+    <Content Include="Content\themes\base\theme.css" />
+    <Content Include="Content\themes\base\tooltip.css" />
+    <Content Include="Librerias\StructureMap.dll" />
+    <Content Include="Scripts\jquery-2.1.1.intellisense.js" />
+    <Content Include="Scripts\jquery-2.1.1.js" />
+    <Content Include="Scripts\jquery-2.1.1.min.js" />
+    <Content Include="Scripts\jquery-ui-1.11.1.js" />
+    <Content Include="Scripts\jquery-ui.min-1.11.1.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BuscarSocio.resx">
+      <DependentUpon>BuscarSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00215_AgregarRutina.resx">
+      <DependentUpon>_00215_AgregarRutina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00200_Socio.resx">
+      <DependentUpon>_00200_Socio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00201_Socio_ABM.resx">
+      <DependentUpon>_00201_Socio_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00202_Clase.resx">
+      <DependentUpon>_00202_Clase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00203_Clase_ABM.resx">
+      <DependentUpon>_00203_Clase_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00204_HorarioClase.resx">
+      <DependentUpon>_00204_HorarioClase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00205_HorarioClase_ABM.resx">
+      <DependentUpon>_00205_HorarioClase_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00206_Membresia.resx">
+      <DependentUpon>_00206_Membresia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00207_Membresia_ABM.resx">
+      <DependentUpon>_00207_Membresia_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00208_Promocion.resx">
+      <DependentUpon>_00208_Promocion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00209_Promocion_ABM.resx">
+      <DependentUpon>_00209_Promocion_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00210_TipoRutina.resx">
+      <DependentUpon>_00210_TipoRutina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00211_TipoRutina_ABM.resx">
+      <DependentUpon>_00211_TipoRutina_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00212_Rutina.resx">
+      <DependentUpon>_00212_Rutina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00213_Rutina_ABM.resx">
+      <DependentUpon>_00213_Rutina_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00214_AsignarRutina.resx">
+      <DependentUpon>_00214_AsignarRutina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00216_AsignarClase.resx">
+      <DependentUpon>_00216_AsignarClase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00217_AgregarClase.resx">
+      <DependentUpon>_00217_AgregarClase.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

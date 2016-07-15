@@ -1,0 +1,14 @@
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\AplicacionEmpleado.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\AplicacionEmpleado.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\obj\Debug\AplicacionEmpleado.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\obj\Debug\AplicacionEmpleado.pdb
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\AplicacionEmpleado.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\AplicacionEmpleado.pdb
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\obj\Debug\AplicacionEmpleado.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\obj\Debug\AplicacionEmpleado.pdb
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\AplicacionEmpleado.dll.config
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\EntityFramework.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\EntityFramework.xml
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionEmpleado\obj\Debug\AplicacionEmpleado.csprojResolveAssemblyReference.cache

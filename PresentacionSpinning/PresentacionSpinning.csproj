@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E20CDD9-C48D-4444-9773-CD054EA1B0D8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PresentacionSpinning</RootNamespace>
+    <AssemblyName>PresentacionSpinning</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap, Version=2.6.3.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\AplicacionIoC\Librerias\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controles\ctrlTurnoSpinning.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\ctrlTurnoSpinning.Designer.cs">
+      <DependentUpon>ctrlTurnoSpinning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\ctrolBuscarSocio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\ctrolBuscarSocio.Designer.cs">
+      <DependentUpon>ctrolBuscarSocio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\DTOTurnoSpinning.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_00500_Spinning_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00500_Spinning_ABM.Designer.cs">
+      <DependentUpon>_00500_Spinning_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00501_Spinning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00501_Spinning.Designer.cs">
+      <DependentUpon>_00501_Spinning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00503_TurnoSpinning_ABM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00503_TurnoSpinning_ABM.Designer.cs">
+      <DependentUpon>_00503_TurnoSpinning_ABM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_00504_TurnoSpinning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_00504_TurnoSpinning.Designer.cs">
+      <DependentUpon>_00504_TurnoSpinning.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Librerias\StructureMap.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controles\ctrlTurnoSpinning.resx">
+      <DependentUpon>ctrlTurnoSpinning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controles\ctrolBuscarSocio.resx">
+      <DependentUpon>ctrolBuscarSocio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00500_Spinning_ABM.resx">
+      <DependentUpon>_00500_Spinning_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00501_Spinning.resx">
+      <DependentUpon>_00501_Spinning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00503_TurnoSpinning_ABM.resx">
+      <DependentUpon>_00503_TurnoSpinning_ABM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_00504_TurnoSpinning.resx">
+      <DependentUpon>_00504_TurnoSpinning.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Comun\Aplicacion.Comun.csproj">
+      <Project>{deb49012-ad04-4823-8afb-54ce7922e1fd}</Project>
+      <Name>Aplicacion.Comun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioBase\DominioBase.csproj">
+      <Project>{80fbf05d-04c0-416e-8436-d3bc294d5293}</Project>
+      <Name>DominioBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioComun\DominioComun.csproj">
+      <Project>{45179756-11b4-496b-b92e-7485071789d6}</Project>
+      <Name>DominioComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioSpinning\DominioSpinning.csproj">
+      <Project>{6e556b5d-ce10-4e28-a755-8bc4e2889410}</Project>
+      <Name>DominioSpinning</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraBase\InfraestructuraBase.csproj">
+      <Project>{cbb9d15e-455e-459a-9c42-3d7fb27f808f}</Project>
+      <Name>InfraestructuraBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraComun\InfraestructuraComun.csproj">
+      <Project>{6a2b3331-4108-42b7-b658-0d36aedd9ed8}</Project>
+      <Name>InfraestructuraComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraSpnning\InfraestructuraSpnning.csproj">
+      <Project>{57d9010f-00d0-44ce-8133-1d5a12fcd234}</Project>
+      <Name>InfraestructuraSpnning</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PresentacionComun\PresentacionComun.csproj">
+      <Project>{50e5a844-7c4a-4d93-89ee-c42d382c7ac1}</Project>
+      <Name>PresentacionComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PresentacionPlantilla\PresentacionPlantilla.csproj">
+      <Project>{01eb3ec4-a891-40ce-9d62-9359428c3869}</Project>
+      <Name>PresentacionPlantilla</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

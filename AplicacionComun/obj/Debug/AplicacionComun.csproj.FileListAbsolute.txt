@@ -1,0 +1,8 @@
+C:\Users\caro\Desktop\Gimnasio\AplicacionComun\bin\Debug\AplicacionComun.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionComun\bin\Debug\AplicacionComun.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionComun\obj\Debug\AplicacionComun.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionComun\obj\Debug\AplicacionComun.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionComun\bin\Debug\AplicacionComun.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionComun\bin\Debug\AplicacionComun.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionComun\obj\Debug\AplicacionComun.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionComun\obj\Debug\AplicacionComun.pdb

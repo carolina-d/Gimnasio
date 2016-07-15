@@ -1,0 +1,102 @@
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\GimnasioUnido\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.csprojResolveAssemblyReference.cache
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\ServicioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\AplicacionSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\StructureMap.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\AplicacionSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\DominioBase.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\bin\Debug\DominioSeguridad.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\ServicioSeguridad\obj\Debug\ServicioSeguridad.pdb

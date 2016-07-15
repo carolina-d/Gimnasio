@@ -1,0 +1,58 @@
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gym\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionConexion\obj\Debug\AplicacionConexion.csprojResolveAssemblyReference.cache
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\aguirre\Desktop\Gimnasio17-10 - copia - copia\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\Gimnasio17-10 - copia - copia\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (5)\GimnasioUnido\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\GimnasioUnido\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\caro\Desktop\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\caro\Source\Repos\ColosseoGym-Git\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+C:\Users\caro\Desktop\Nueva carpeta (4)\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll.config
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\bin\Debug\AplicacionConexion.pdb
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.dll
+K:\Tecnicatura Gestion Gimnasio\Gimnasio\AplicacionConexion\obj\Debug\AplicacionConexion.pdb

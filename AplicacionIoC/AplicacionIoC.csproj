@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2862CA9-9D80-4B25-B73F-6B4DDF3BE91F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AplicacionIoC</RootNamespace>
+    <AssemblyName>AplicacionIoC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap">
+      <HintPath>..\..\..\SistemaCAD\Presentacion.Seguridad\Librerias\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StructureMapContainer.cs" />
+    <Compile Include="StructureMapFilterProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Librerias\StructureMap.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dominio.Caja\Dominio.Caja.csproj">
+      <Project>{5ce31847-843b-4c3f-a581-cb48af074933}</Project>
+      <Name>Dominio.Caja</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio.Producto\Dominio.Producto.csproj">
+      <Project>{36486cea-6c33-491f-8282-475755cbc35d}</Project>
+      <Name>Dominio.Producto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioBase\DominioBase.csproj">
+      <Project>{80fbf05d-04c0-416e-8436-d3bc294d5293}</Project>
+      <Name>DominioBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioComun\DominioComun.csproj">
+      <Project>{45179756-11b4-496b-b92e-7485071789d6}</Project>
+      <Name>DominioComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioSeguridad\DominioSeguridad.csproj">
+      <Project>{a67fd77d-8aa4-401a-a73e-3d58830cabcc}</Project>
+      <Name>DominioSeguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DominioSpinning\DominioSpinning.csproj">
+      <Project>{6e556b5d-ce10-4e28-a755-8bc4e2889410}</Project>
+      <Name>DominioSpinning</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infraestructura.Caja\Infraestructura.Caja.csproj">
+      <Project>{9f17ad5c-cc0e-4567-826a-7a6cc5cec1c2}</Project>
+      <Name>Infraestructura.Caja</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infraestructura.Producto\Infraestructura.Producto.csproj">
+      <Project>{e8cfdca4-170a-4157-8617-d97f6efed3eb}</Project>
+      <Name>Infraestructura.Producto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraBase\InfraestructuraBase.csproj">
+      <Project>{cbb9d15e-455e-459a-9c42-3d7fb27f808f}</Project>
+      <Name>InfraestructuraBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraComun\InfraestructuraComun.csproj">
+      <Project>{6a2b3331-4108-42b7-b658-0d36aedd9ed8}</Project>
+      <Name>InfraestructuraComun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraSeguridad\InfraestructuraSeguridad.csproj">
+      <Project>{193f6e8e-cc38-4976-b495-ec257da6e5a2}</Project>
+      <Name>InfraestructuraSeguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfraestructuraSpnning\InfraestructuraSpnning.csproj">
+      <Project>{57d9010f-00d0-44ce-8133-1d5a12fcd234}</Project>
+      <Name>InfraestructuraSpnning</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServicioSeguridad\ServicioSeguridad.csproj">
+      <Project>{f3c40b71-a0ef-4c95-a074-2cd5d557e1db}</Project>
+      <Name>ServicioSeguridad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
